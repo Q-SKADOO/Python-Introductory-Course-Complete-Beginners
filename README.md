@@ -24,15 +24,24 @@ Each session will include a theoretical lecture followed by practical assignment
 ## Tools and Languages
 
 - **Programming Language:** Python
-- **Code Editor:** Visual Studio Code, PyCharm, or any simple text editor
-- **Collaboration:** GitHub
+- **Code Editor:** Anaconda
+- **Collaboration:** GitHub for code sharing and collaboration
 
 ## Syllabus
 
 ### Week 1: Introduction to Programming and Python
 
 - **Lecture:** What is programming? Overview of Python.
+- **What is Programming?** An overview of what programming is and its significance in today's digital world.
+- **Why Python?** Understanding the advantages of Python as a beginner-friendly language that's powerful and widely used in various industries.
+- **The Value of Coding Skills:** 
+  - **Employment Opportunities:** Discussion on how coding skills open up numerous job opportunities in tech, data science, web development, automation, and more.
+  - **Salary Prospects:** Highlighting how programming roles are among the highest-paid in the industry.
+  - **Industry Trajectories:** Exploring the growth trajectories of tech industries and the increasing demand for programming skills across various sectors beyond tech, such as finance, healthcare, and entertainment.
+  - **Versatility of Python:** Examples of real-world applications of Python, from web development and data analysis to AI and machine learning.
+  - **Personal and Professional Growth:** How learning to code enhances problem-solving skills, logical thinking, and creativity, which are valuable in any career path.
 - **Assignment:** Install Python and a code editor. Write a "Hello, world!" program.
+- **Reflection:** Write a short reflection on what motivates you to learn coding and how you envision using your new skills.
 
 ### Week 2: Variables, Data Types, and Operations
 
